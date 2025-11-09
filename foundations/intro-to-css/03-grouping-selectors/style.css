@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.summer, .winter{
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", "sans-serif";
+}
+
+.summer{
+    color: white;
+    background-color: rgb(0, 0, 0);
+}
+
+.winter{
+    background-color: rgb(250, 250, 0);
+}
