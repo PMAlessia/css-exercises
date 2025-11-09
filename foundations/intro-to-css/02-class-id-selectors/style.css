@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.cat{
+    background-color: rgb(230, 109, 135);
+    font-family: "Verdana", "DejaVu Sans", "ans-serif";
+}
+
+#cloud{
+    color: rgb(0, 0, 250);
+    font-size: 36px;
+}
+
+.lion{
+    font-size: 24px;
+}
+
+#rain{
+    background-color: rgb(115, 235, 115);
+    font-weight: 700;
+}
